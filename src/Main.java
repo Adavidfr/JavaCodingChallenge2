@@ -44,8 +44,6 @@ public class Main {
 
         }
 
-        //  REVISAR DESDE AQUI
-
         // Find the user with the most actions
         User topUser = null;
         int maxActions = 0;
